@@ -28,3 +28,17 @@ body {
     background-position: center;
 
 }   
+
+.enlace1{
+    text-align: center;
+}
+
+.enlace1{
+    font-size: x-large;
+}
+
+.enlace1 {
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color:black
+
+}
